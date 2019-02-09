@@ -5,3 +5,5 @@
 * fetch/push
 * student repo
 * permissions 
+* exercises
+* automated tests
